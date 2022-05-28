@@ -11,8 +11,6 @@ NC Start up screen
 
 
 
-![London Tower pic](tower-of-london.jpg)
-
 ---
 
 This will have a footnote [^1]
